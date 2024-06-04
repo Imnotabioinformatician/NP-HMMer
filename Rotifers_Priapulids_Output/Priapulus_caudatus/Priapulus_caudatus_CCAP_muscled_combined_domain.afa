@@ -1,0 +1,102 @@
+>Turt ccap tetur35g01676 sequenced based on: GT994981.1 and GT994982.1
+-----MSAMMMRLITITMIFILSLIELTL---TANLVKRESGQQLINSFSGHL------D
+---------------KRPFCNAFTGC----GKKRSLSIPNYPNLPSSLAMDDSSSASPPS
+SSSSSYPASSSLLSSSSLSIDEPLAINEWLNYLRMTQKLMEEARSWEILQSRINQFGSIE
+MGQRQKFIGLKR------------------------------------------------
+---
+>Isca tr_B7Q5V5_B7Q5V5_IXOSC_Uncharacterized_protein_OS_Ixodes_scapularis_OX_6945_GN_8036346_PE_4_SV_1
+---MKPDLSTVISSSLYILLLSACLSAALEKQDDT--------ADDSYLVEQ--------
+---------------KRPFCNAFTGC----GGKRS-------------------------
+----------------SPNRIDLLA--------RLQNRLLSEIRNLELRTRLEEGP----
+SRRHDEYTDNVSRLNKRE----ESISDASSTRDRCP------------------------
+---
+>Vdes tr_A0A7M7KBZ7_A0A7M7KBZ7_VARDE_Uncharacterized_protein_OS_Varroa_destructor_OX_109461_PE_4_SV_1
+MNLKTSGCASVWACLVVATAVFSALACAAGAQPSPGRQQQLQLQDELRYRTDKLRELLGR
+PIVELGVSGGPVGLQKRPFCNAFTGC----AGKR--------------------------
+----------------APFALPSSD--------KQRLRFFRKFNTIDNLDSDEYVV----
+DNTNYDREIIQE------------------------------------------------
+---
+>Dpul Protost_ecdy_Dappu_tr_E9HE05_E9HE05_DAPPU_Crustacean_cardioactive_peptide_OS_Daphnia_pulex_OX_6669_GN_DAPPUDRAFT_300598_PE_4_SV_1
+-----MTRPLFYSLLMLAWMIISLYISASS--SQPLKNNQ----NDSDSAEEIEQWSFKE
+---------------KRPFCNAFAGC----GRKRS-------------------------
+----------MIKDTKHPPYEKAAS--------NHPRLPNADTKLLDKLF---AKI----
+QHQRANFVQLDDPEYY--------------------------------------------
+---
+>Amel tr_A0A7M7FXQ4_A0A7M7FXQ4_APIME_Uncharacterized_protein_OS_Apis_mellifera_OX_7460_GN_724113_PE_4_SV_1
+--------MKIINYVCCILAFVCLMNVIRS--EESQSKMEQQFLDVFTTDESL-----KM
+---------------KRPFCNAFTGC----GKKRN-------------------------
+-------FHENPTDSQDLEINGNI---------RLPFSIYKALLRAATRNVNEYQV----
+SGIPQMYLSGRMPLHKRIDIRSSSLE----------------------------------
+---
+>Nvit tr_A0A7M7GBM0_A0A7M7GBM0_NASVI_Uncharacterized_protein_OS_Nasonia_vitripennis_OX_7425_PE_4_SV_1
+--------MKVLKLVLSLLIIIESVEIARA--DDGL--------------EIV-----AM
+---------------KRPFCNAFTGC----GRKR--------------------------
+----------------DPSYASGL---------QLPIPLYRALLRLSSLRNGAAAE----
+VRMRQRPLGLIGPENLVQLGPQAPRLMAAPVVVPSLY-----------------------
+---
+>Smar tr_T1J0Y2_T1J0Y2_STRMM_Uncharacterized_protein_OS_Strigamia_maritima_OX_126957_PE_4_SV_1
+-----MQYVTIHGFVTLLLIVFSCTIGCAA----------------------------QK
+---------------RRPFCNAFTGC----GRKRS-------------------------
+--------ELPASNVNDLETDLLLD--------KLSHQILGLVHVLEALH-MRIET----
+SRQNQQPLPMIETDSR------IPNYILDRKRRSTKI-----------------------
+---
+>Dmel Protost_ecdy_Dmel_sp_Q9VCW0_CCAP_DROME_Cardioactive_peptide_OS_Drosophila_melanogaster__Fruit_fly__OX_7227_GN_CCAP_PE_1_SV_2
+------MRTSM-RISLRLLALLACAICSQASLERENNEGT---NMANHKLSGVIQWKYE-
+---------------KRPFCNAFTGC----GRKRT--------YPSYPPFSLFKRNEVEE
+KPYNNEYLSEGLSDLIDINAEPAVE--------NVQKQIMSQAKIFEAIKEASKEI----
+FRQKNKQKMLQNEKEMQQLEERESK-----------------------------------
+---
+>Phum tr_E0VG48_E0VG48_PEDHC_Cardioactive_peptide_precursor__putative_OS_Pediculus_humanus_subsp__corporis_OX_121224_GN_8236747_PE_4_SV_1
+-----MNPVQIHFFPVYSFAFIYLITLTFVTGDDVILQKR--SERNRLDMDRFMYDGHAM
+---------------KRPFCNAFTGC----GKKRS-------------------------
+--------EGSIGNILGFNTEPESD--------ELLKQFLTEAKLWETIQEAKMEL----
+ERRRQGRQNAVRDDVP------LRLPLASYRRKRSTKKAQENNFDENINIEIHSCKILGF
+VNK
+>Aaeg tr_Q17NP9_Q17NP9_AEDAE_AAEL000630_PA_OS_Aedes_aegypti_OX_7159_GN_5564839_PE_4_SV_1
+-----MNSTAV-TILLALAVTILCLAHVI---DCGVVDRE---PRAYKQYSNE---PPPA
+---------------KRPFCNAFTGC----GKKRSSVVPVTP-VNMIHRHALTSEQNRPK
+VTEGFDPNEDSLANLIDLNTEPAVE--------DLMRQIMSEAKLWEAIQEANREI----
+YLQKQG----QKSESNSF-----PISFSTQ------------------------------
+---
+>Tcas Protost_ecdy_Tcas_tr_D6WA20_D6WA20_TRICA_Cardioactive_peptide_like_Protein_OS_Tribolium_castaneum_OX_7070_GN_TcasGA2_TC001088_PE_4_SV_1
+-------MTTAKLFVICIFAALAIETHSRFLPKSISKNLG----ATERVLEP-------K
+---------------KRPFCNAFTGC----GRKRS---------------------NLPA
+LPEQSEVVDENLGSLLELSAEPAVE--------DLSRQIMSEAKLWEAIQEANMEL----
+HRRRQESAESSEEDAAVP----ARSATASCALPPCYI-----------------------
+---
+>Znev tr_A0A067QIJ7_A0A067QIJ7_ZOONE_Cardioactive_peptide_OS_Zootermopsis_nevadensis_OX_136037_GN_L798_01547_PE_4_SV_1
+-----MQMCHV-VIGCSVAVLLMIIGLPLASCDSVIIQKR---QIDPADVDRIL--DPKR
+---------------KRPFCNAFTGC----GKKRS-------------------------
+--------DESMGTLVELNSEPAVE--------DLSRKILSETKLWEAIQEARAEL----
+LRRRQEQLQLQEGQYATAVERPIPLSITGYRKKRSVI--PEGTGNSLLTTSEPQDQSTKT
+WSR
+>Lmig Locusta_migratoria
+-------MSRALLLGGPALVLLACLQLAAA--DDVIMEKR---DMDSPFLDRL--FESKM
+---------------KRPFCNAFTGC----GKKRS-------------------------
+--------DESVSTLLEMNSEPAVA--------DLSRQILSEAKLWEAIQEARAEL----
+MARRRQHEMQTNRLGDFS----RPLAVAQYRKKRAA--APPTPAQGIKPWRR--------
+---
+>Apis tr_X1WNB0_X1WNB0_ACYPI_Uncharacterized_protein_OS_Acyrthosiphon_pisum_OX_7029_GN_100569988_PE_4_SV_1
+------MNPSI-LTLVWMSILVSLVQTVFA--DDVIMQKR-YFDNDNPVAEPI-----RR
+---------------KKPFCNAFTGC----GRKRS-------------------------
+--------DESMATLVDLRSEPAVE--------EISRQIMSEAKLWEAIQEARLEL----
+IRQQRQNKAERMDV--------KPYPIGLRRKRRSLATSDKC------------------
+---
+>Rpro tr_F1AHD5_F1AHD5_RHOPR_CCAP_prepropeptide_OS_Rhodnius_prolixus_OX_13249_GN_CCAP_PE_2_SV_1
+----------MQLLVPCFLLFTALVSAVLT--DDVFLQKRLYFPGE--IAEPI---DPKM
+---------------KKPFCNAFTGC----GKKRS-------------------------
+--------DESMATLVDLNSEPAVE--------ELSRQILSEAKLWEAIQEARMEL----
+LNRKQ-QQSDRIPL--------QPLPLTTIRKRSHYLYT---------------------
+---
+>Pcau11159_8-122:. 
+------------AATVLVCVVLLMVTRAAAEAEDAIYYDA--------DMEPLRQLSNMR
+---------------KRPFCNGFGGCRGAFGSKRG-------------------------
+--------TDDVTDSADPDLANDVS------------GRLREAVIWRILGQKLREL----
+QAMDHNEEREMEESAPAQQ-----------------------------------------
+---
+>Pcau11160_8-118:. 
+------------AATVLVCVVLLMVTRAAAEAEDAIYYDA--------DMEPLRQLSNMR
+---------------KRPFCNGFGGCRGAFGSKRG-------------------------
+--------TDDVTDSADPDLANDVS------------GRLREAVIWRILGQKLREL----
+QAMDHNEEREMEESA---------------------------------------------
+---

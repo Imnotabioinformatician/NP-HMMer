@@ -1,0 +1,34 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Bpli5357             -             73 AdipokineticHormone  -             72   1.1e-08   36.3   0.0   1   1   4.6e-13   1.2e-08   36.2   0.0     4    46     8    50     5    71 0.86 -
+Bpli20339            -            156 AllatostatinB        -            185   0.00017   22.8   0.0   1   1   8.1e-09   0.00021   22.5   0.0    14   131     9   132     1   154 0.55 -
+Bpli3895             -            136 FMRFamide            -            289   1.7e-08   35.9   0.5   1   1   7.7e-13     2e-08   35.6   0.5    10   152     7   135     1   136 0.63 -
+Bpli45417            -             78 FMRFamide            -            289    0.0037   18.3   3.9   1   1   1.4e-07    0.0038   18.3   3.9   114   177    17    75     3    78 0.80 -
+Bpli21098            -            401 NUCB1                -            567  2.6e-135  454.0  43.8   1   1  8.7e-139  3.5e-135  453.6  43.8     5   405     2   397     1   401 0.88 -
+Bpli19830            -            198 NUCB1                -            567   2.7e-06   28.1   2.6   1   1   8.3e-07    0.0033   17.9   0.5   241   317   118   187   110   190 0.80 -
+Bpli38869            -            192 NUCB1                -            567   6.7e-06   26.8   3.1   1   1   5.2e-07    0.0021   18.6   2.2   242   318   110   180   105   184 0.76 -
+Bpli42610            -            164 NUCB1                -            567   1.2e-05   26.0   1.5   1   1     3e-09   1.2e-05   26.0   1.5   228   313    73   161    63   164 0.73 -
+Bpli39510            -            200 NUCB1                -            567   5.8e-05   23.7   0.4   1   1   8.5e-07    0.0034   17.9   0.0   242   312   122   184   112   189 0.88 -
+Bpli39594            -            210 NUCB1                -            567   6.2e-05   23.6   0.4   1   1   9.5e-07    0.0038   17.7   0.0   242   312   132   194   123   199 0.88 -
+Bpli27488            -             80 NUCB1                -            567   0.00021   21.9   2.7   1   1   5.6e-08   0.00023   21.8   2.7   244   313     1    64     1    77 0.80 -
+Bpli31919            -            355 NUCB1                -            567   0.00078   20.0  13.0   1   1   4.5e-07    0.0018   18.8   2.0   232   311   282   348   280   352 0.81 -
+Bpli13883            -            137 NeuropeptideF        -             92   2.9e-14   54.5   0.0   1   1   3.1e-18     4e-14   54.0   0.0     6    72    19    92    14   107 0.75 -
+Bpli4070             -            115 NeuropeptideF        -             92   1.5e-11   45.7   0.0   1   1   1.3e-15   1.7e-11   45.6   0.0     8    71     8    74     1    92 0.69 -
+Bpli13495            -             91 NeuropeptideF        -             92     6e-09   37.4   0.0   1   1   5.1e-13   6.7e-09   37.3   0.0     8    66    14    71     4    88 0.80 -
+Bpli10470            -            122 NeuropeptideF        -             92    0.0042   18.7   1.0   1   1   5.4e-07     0.007   18.0   1.0    44    81    80   117    10   121 0.88 -
+Bpli47440            -            121 ACP                  -             84   7.1e-05   24.2   0.0   1   1   8.2e-09   0.00021   22.7   0.0    11    42    13    46     3    61 0.64 -
+Bpli5357             -             73 ACP                  -             84    0.0053   18.2   0.0   1   1   2.2e-07    0.0058   18.1   0.0     5    52     8    53     3    68 0.64 -
+Bpli51085            -            157 Insulinlike          -            137    0.0012   20.7   3.1   1   1   4.5e-08    0.0012   20.7   3.1   112   134   134   156   114   157 0.88 -
+Bpli29352            -             78 Insulinlike          -            137    0.0092   17.8   0.5   1   1     4e-07      0.01   17.6   0.5   111   132    38    59     2    60 0.78 -
+Bpli49535            -            180 Vasopressin          -            137   3.1e-35  122.7  15.9   1   1   7.9e-40   4.1e-35  122.3  15.9     8   134    20   146    13   149 0.86 -
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      Database_hmm/database
+# Target file:     Input_rotifers_priap/B_plicatilis_clean.fasta
+# Option settings: hmmsearch --domtblout Output_Final25May2024TRH/B_plicatilis/B_plicatilis.hmm_results --noali -E 1e-2 --domE 1e-6 --cpu 2 Database_hmm/database Input_rotifers_priap/B_plicatilis_clean.fasta 
+# Current dir:     /home/layg1e23/Documents/GitHub/HMMerMe
+# Date:            Sat May 25 18:25:30 2024
+# [ok]

@@ -1,0 +1,95 @@
+>Turt3 Eclosionhormone3 tetur02g09290
+-----------------MRRLTLILLVIGF--------------------IDLTSIAAAK
+YRNRNQEKVYLCLHNCALCVRFW---------------ENG-------------------
+-LYNGEKCARKCLKN---KKRPKIIDPDCK-----------------ILRFFKSSSLKHK
+LAVGLSVSRLVYIWSAVLLASTF
+>Turt1 Eclosionhormone1 tetur11g03800
+----------------MSLRWFSLFIFYSY-------------------LVFVHSDSSVI
+SNSAENNKLYLCLHNCALCVRVW---------------ERG-------------------
+-LYNGEKCARKCLKF---KENPRIIDPDCE-----------------SLKLFNQKAF--R
+IKKSSDDAE--------------
+>Turt2 Eclosionhormone2 tetur08g04650
+----------------MNCLLIGISIVFAY-------------------LVAVGCDPELI
+NSPSPNDKLHLCLHNCALCVRVW---------------EHG-------------------
+-LYNGEKCALKCLKF---KENPRIIDPDCE-----------------SLKLFNQKAF--R
+IKKASDESD--------------
+>Hduj tr_A0A1W0X0S6_A0A1W0X0S6_HYPDU_Uncharacterized_protein_OS_Hypsibius_dujardini_OX_232323_GN_BV898_04828_PE_4_SV_1
+--------------MKTYHRSFFVSVTALI-----------------VTVSFVTVAAAPI
+ASKGMVGNISICIANCAQCHDIV---------------GE--------------------
+-VFDHRKCSRDCVQR---RGT---FIPDCT-----------------SPVAIREYLNLGK
+MIAER------------------
+>Isca tr_B7P7K6_B7P7K6_IXOSC_Uncharacterized_protein_OS_Ixodes_scapularis_OX_6945_GN_8025815_PE_4_SV_1
+---------------MARILDFPIFLVVSA------------------VAFAVLLSLSSA
+THTYPSDPVLVCINNCGQCKMIY---------------GE--------------------
+-YFNGRQCAEECLST---AGF---IQPDCD-----------------EADSIVKYLR--R
+KP---------------------
+>Bmor sp_P25331_ECLH_BOMMO_Eclosion_hormone_OS_Bombyx_mori_OX_7091_PE_1_SV_2
+---------------MANKLTAVIVVALAV-----------------AFMVNLDYANCSP
+AIASSYDAMEICIENCAQCKKMF---------------GP--------------------
+-WFEGSLCAESCIKA---RGK---DIPECE-----------------SFASISPFLN--K
+L----------------------
+>Dmel1 Protost_ecdy_Dappu_tr_E9GB09_E9GB09_DAPPU_Prepropeptide_encoding_eclosion_hormone_OS_Daphnia_pulex_OX_6669_GN_DAPPUDRAFT_48309_PE_4_SV_1
+---------------------------------------------------------MTV
+DVAQPADTLYLCMKNCEQCKSMY---------------GA--------------------
+-YFEGDLCAKSCFRL---KGA---FIPDCI-----------------DVASIGQFLN--K
+NE---------------------
+>Dmel2 Protost_ecdy_Dmel_sp_Q07892_ECLH_DROME_Eclosion_hormone_OS_Drosophila_melanogaster__Fruit_fly__OX_7227_GN_Eh_PE_2_SV_1
+------------MNCKPLILCTFVAVAMCL------------VHFGNALPAISHYTHKRF
+DSMGGIDFVQVCLNNCVQCKTML---------------GD--------------------
+-YFQGQTCALSCLKF---KGK---AIPDCE-----------------DIASIAPFLN--A
+LE---------------------
+>Smar tr_T1JCY5_T1JCY5_STRMM_Uncharacterized_protein_OS_Strigamia_maritima_OX_126957_PE_4_SV_1
+-------------MRQSESQRAAVSTVVIL--------------------LLLHLDRASS
+R------SINLCIQNCAQCKKMF---------------GP--------------------
+-YFEGQLCAETCIEL---RAK---MTPDCA-----------------DANSISPFLN--K
+FER--------------------
+>Aaeg tr_A0A1S4FSX6_A0A1S4FSX6_AEDAE_Eclosion_hormone_OS_Aedes_aegypti_OX_7159_GN_5574558_PE_3_SV_1
+---------------MASVRIVALFIAIAL----------------AVVLVSEASANPQI
+DILGGYDMIGVCINNCAQCKKMF---------------GE--------------------
+-FFEGHLCAEACIQF---KGK---MVPDCE-----------------DINSIAPFLN--K
+LN---------------------
+>Amel tr_A0A7M7GJF6_A0A7M7GJF6_APIME_Uncharacterized_protein_OS_Apis_mellifera_OX_7460_PE_4_SV_1
+--------------MNTSIRSILLVLFLVY------------------SMVFVLVAGSVP
+FER----AIGVCIRNCAQCKKMF---------------GP--------------------
+-YFLGQKCADSCFKN---KGK---LIPDCE-----------------DEDSIQPFLQ--A
+LDSEY------------------
+>Apis tr_J9LI97_J9LI97_ACYPI_ACYPI44516_protein_OS_Acyrthosiphon_pisum_OX_7029_PE_4_SV_1
+MTGMDADFVSVLRSADLRGSTTSARIAFTISQRKTRMMNTPSKKITFLAAVALVLIGIVG
+YTTADMADVAMCIRNCAQCKKML---------------GD--------------------
+-YFEGPLCADTCVKF---KGK---MIPDCE-----------------NIDSIAPFLN--K
+LE---------------------
+>Rpro tr_T1ID72_T1ID72_RHOPR_Uncharacterized_protein__Fragment__OS_Rhodnius_prolixus_OX_13249_PE_4_SV_1
+----------NIINSKLLCRYTMKKLLLVI-----------------------LLTSFLA
+EISGR--QIGVCIRNCAQCKKMF---------------GV--------------------
+-YFEGQMCADTCLKY---KGK---LIPDCE-----------------DIASIGPFLN--K
+LI---------------------
+>Phum tr_E0W1X8_E0W1X8_PEDHC_Eclosion_hormone_precursor__putative_OS_Pediculus_humanus_subsp__corporis_OX_121224_GN_8232242_PE_4_SV_1
+--------------MSAVCFLNNLLFVVVVTGMGMGLKKLYSILMAAVLLTTFLCLANSS
+ILPTESNQFGICIRNCAQCKKMF---------------GT--------------------
+-YFEGQLCADACVKF---KGK---VIPDCE-----------------DLDSISPFLN--K
+VD---------------------
+>Lmig1 Locusta_mig_EH1
+---------------MALCRRTLLLVALLV---------------------VAVAVCVVP
+HVAAS--AVGVCIRNCAQCKKMF---------------GP--------------------
+-YFEGQLCGDACLKF---KGK---MVPDCE-----------------DAASIAPFLS--K
+LE---------------------
+>Lmig2 Locusta_mig_EH2
+---------------MSGRLVTALLVVLVL--------------------------AATL
+APPAAGNAVSVCIRNCAQCKKMY---------------GP--------------------
+-YFEGQLCADACLKF---GGK---MMPDCE-----------------DAASIAPFLN--K
+LE---------------------
+>Tcas Protost_ecdy_Tcas_tr_D6WB32_D6WB32_TRICA_Eclosion_hormone_OS_Tribolium_castaneum_OX_7070_GN_TcasGA2_TC030006_PE_4_SV_1
+--------------MDSGSRNFLVLLLLFA----------------------------SS
+LLVVDANPIGVCIRNCAQCKKMF---------------GP--------------------
+-YFEGQLCADACVKF---KGK---IIPDCE-----------------DITSIAPFLN--K
+FE---------------------
+>Znev tr_A0A067QZQ4_A0A067QZQ4_ZOONE_Eclosion_hormone_OS_Zootermopsis_nevadensis_OX_136037_GN_L798_10703_PE_3_SV_1
+--------------MEQRKISEAVVLAMSV---------------------AFLAATVVV
+PSGATSYSIGVCIRNCAQCKKMF---------------GP--------------------
+-YFEGQLCADACVKF---KGK---IIPDCE-----------------DLASIAPFLN--K
+FE---------------------
+>Dmel12663_4-189:. 
+---------------ITVLSVSLLVGLVAISQADDSSPGFFLKITKNVPRLGKRGENFAI
+KNLKTIPRIGRSEHSSVTPLLAWLWDLETSPSKRRLPAGESPAKEQELNVVQPVNSNTLL
+ELLDNNAIPSEQVKFVHWKDFDRALQADADLYSKVIQLGRRPDQHLKQTLSFGSFVP--I
+FGDEQNPDFMMYKNNEDQELYGG
